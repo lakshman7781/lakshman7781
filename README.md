@@ -2,6 +2,8 @@
 -👀 Currently, my focus is on honing my skills in ReactJS and python tools.       
 -🌱 I'm dedicated to continuous learning and growth in the field of web development.          
 -💞️ I'm enthusiastic about collaborating with like-minded individuals on exciting web development projects.
+
+
 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshman7781&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
