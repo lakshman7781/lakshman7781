@@ -56,7 +56,7 @@
 </div>
 
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=lakshman7781&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
