@@ -3,6 +3,7 @@
 -🌱 I'm dedicated to continuous learning and growth in the field of web development.          
 -💞️ I'm enthusiastic about collaborating with like-minded individuals on exciting web development projects.
 
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
