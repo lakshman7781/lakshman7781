@@ -5,7 +5,7 @@ I'm a passionate full-stack developer with a keen interest in building robust an
 ## 🚀 About Me
 - 💻 Full-stack developer specializing in React and FastAPI
 - 🐍 Python enthusiast with a focus on web development and machine learning
-- 🔧 Experienced in working with APIs, Postman, and Docker , llm's , Generative ai
+- 🔧 Experienced in working with APIs, Postman, and Docker , llm's , Generative ai, langchain
 - 🧠 Interested in ML model implementations and embeddings
 - 👀 Always exploring new technologies and best practices in software development
 - 🌱 Committed to continuous learning and growth in the ever-evolving tech landscape
