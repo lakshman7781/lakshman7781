@@ -3,6 +3,8 @@
 -🌱 I'm dedicated to continuous learning and growth in the field of web development.          
 -💞️ I'm enthusiastic about collaborating with like-minded individuals on exciting web development projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshman7781&label=Profile%20views&color=0e75b6&style=flat" alt="lakshman7781" />
+
 
 # 💻 Tech Stack:
 <div align="left">
