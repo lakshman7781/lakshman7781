@@ -62,6 +62,26 @@
 ![](https://github-profile-trophy.vercel.app/?username=lakshman7781&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshman7781&label=Profile%20views&color=0e75b6&style=flat" alt="lakshman7781" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshman7781" alt="lakshman7781" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/lakshmanbhavan7" target="blank"><img src="https://img.shields.io/twitter/follow/lakshmanbhavan7?logo=twitter&style=for-the-badge" alt="lakshmanbhavan7" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lakshmanbhavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshmanbhavan7" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshman7781&show_icons=true&locale=en&layout=compact" alt="lakshman7781" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshman7781&show_icons=true&locale=en" alt="lakshman7781" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshman7781&" alt="lakshman7781" /></p>
+
+
 
 
 <!---
