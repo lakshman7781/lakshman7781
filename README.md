@@ -17,11 +17,7 @@ I'm a passionate full-stack developer with a keen interest in building robust an
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="20" />
