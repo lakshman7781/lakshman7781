@@ -39,9 +39,8 @@ A passionate full-stack developer focused on building robust and scalable web ap
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshman7781&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshman7781&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=lakshman7781&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lakshman7781&theme=tokyonight&hide_border=true)<br/>
 
 </div>
 
