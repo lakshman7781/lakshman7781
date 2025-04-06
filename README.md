@@ -11,6 +11,10 @@ A passionate full-stack developer focused on building robust and scalable web ap
 - 🌱 Constantly learning and adapting to new technologies
 - 🤝 Open to collaboration and connecting with fellow developers
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshman7781&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend Development
@@ -48,10 +52,5 @@ A passionate full-stack developer focused on building robust and scalable web ap
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=lakshman7781&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshman7781&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
----
 
 💬 Feel free to reach out for collaborations or just a tech chat!
